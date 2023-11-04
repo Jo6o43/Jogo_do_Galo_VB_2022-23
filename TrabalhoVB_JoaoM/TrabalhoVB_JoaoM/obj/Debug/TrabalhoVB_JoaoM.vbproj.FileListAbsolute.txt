@@ -1,0 +1,42 @@
+E:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.vbproj.AssemblyReference.cache
+E:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.vbproj.SuggestedBindingRedirects.cache
+E:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.Resources.resources
+E:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.vbproj.GenerateResource.cache
+E:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.vbproj.CoreCompileInputs.cache
+E:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\bin\Debug\TrabalhoVB_JoaoM.exe.config
+E:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\bin\Debug\TrabalhoVB_JoaoM.exe
+E:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\bin\Debug\TrabalhoVB_JoaoM.pdb
+E:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\bin\Debug\TrabalhoVB_JoaoM.xml
+E:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.Form1.resources
+E:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.exe
+E:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.xml
+E:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.pdb
+D:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\bin\Debug\TrabalhoVB_JoaoM.exe.config
+D:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\bin\Debug\TrabalhoVB_JoaoM.exe
+D:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\bin\Debug\TrabalhoVB_JoaoM.pdb
+D:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\bin\Debug\TrabalhoVB_JoaoM.xml
+D:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.vbproj.AssemblyReference.cache
+D:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.vbproj.SuggestedBindingRedirects.cache
+D:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.Form1.resources
+D:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.Resources.resources
+D:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.vbproj.GenerateResource.cache
+D:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.vbproj.CoreCompileInputs.cache
+D:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.exe
+D:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.xml
+D:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.pdb
+E:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.Form2.resources
+E:\Projetos VS\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.Form3.resources
+C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\bin\Debug\TrabalhoVB_JoaoM.exe.config
+C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\bin\Debug\TrabalhoVB_JoaoM.exe
+C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\bin\Debug\TrabalhoVB_JoaoM.pdb
+C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\bin\Debug\TrabalhoVB_JoaoM.xml
+C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.vbproj.AssemblyReference.cache
+C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.Form1.resources
+C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.Form2.resources
+C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.Form3.resources
+C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.Resources.resources
+C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.vbproj.GenerateResource.cache
+C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.vbproj.CoreCompileInputs.cache
+C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.exe
+C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.xml
+C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.pdb
