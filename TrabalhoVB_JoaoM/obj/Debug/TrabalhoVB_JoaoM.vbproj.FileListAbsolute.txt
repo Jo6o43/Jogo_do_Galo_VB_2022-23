@@ -40,3 +40,17 @@ C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\T
 C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.exe
 C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.xml
 C:\Users\jo60g\OneDrive\Ambiente de Trabalho\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.pdb
+C:\Users\Jo6o\Desktop\Jogo_do_Galo_VB_2022-23\TrabalhoVB_JoaoM\bin\Debug\TrabalhoVB_JoaoM.exe.config
+C:\Users\Jo6o\Desktop\Jogo_do_Galo_VB_2022-23\TrabalhoVB_JoaoM\bin\Debug\TrabalhoVB_JoaoM.exe
+C:\Users\Jo6o\Desktop\Jogo_do_Galo_VB_2022-23\TrabalhoVB_JoaoM\bin\Debug\TrabalhoVB_JoaoM.pdb
+C:\Users\Jo6o\Desktop\Jogo_do_Galo_VB_2022-23\TrabalhoVB_JoaoM\bin\Debug\TrabalhoVB_JoaoM.xml
+C:\Users\Jo6o\Desktop\Jogo_do_Galo_VB_2022-23\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.vbproj.AssemblyReference.cache
+C:\Users\Jo6o\Desktop\Jogo_do_Galo_VB_2022-23\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.Form1.resources
+C:\Users\Jo6o\Desktop\Jogo_do_Galo_VB_2022-23\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.Form2.resources
+C:\Users\Jo6o\Desktop\Jogo_do_Galo_VB_2022-23\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.Form3.resources
+C:\Users\Jo6o\Desktop\Jogo_do_Galo_VB_2022-23\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.Resources.resources
+C:\Users\Jo6o\Desktop\Jogo_do_Galo_VB_2022-23\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.vbproj.GenerateResource.cache
+C:\Users\Jo6o\Desktop\Jogo_do_Galo_VB_2022-23\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.vbproj.CoreCompileInputs.cache
+C:\Users\Jo6o\Desktop\Jogo_do_Galo_VB_2022-23\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.exe
+C:\Users\Jo6o\Desktop\Jogo_do_Galo_VB_2022-23\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.xml
+C:\Users\Jo6o\Desktop\Jogo_do_Galo_VB_2022-23\TrabalhoVB_JoaoM\obj\Debug\TrabalhoVB_JoaoM.pdb

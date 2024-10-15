@@ -42,9 +42,9 @@ Partial Class Form3
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(12, 568)
+        Me.Button1.Location = New System.Drawing.Point(417, 568)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(86, 36)
+        Me.Button1.Size = New System.Drawing.Size(126, 36)
         Me.Button1.TabIndex = 0
         Me.Button1.TabStop = False
         Me.Button1.Text = "Menu"
@@ -153,7 +153,7 @@ Partial Class Form3
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.DarkTurquoise
-        Me.ClientSize = New System.Drawing.Size(604, 616)
+        Me.ClientSize = New System.Drawing.Size(579, 616)
         Me.Controls.Add(Me.PictureBox5)
         Me.Controls.Add(Me.PictureBox4)
         Me.Controls.Add(Me.PictureBox3)
@@ -168,6 +168,7 @@ Partial Class Form3
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.Name = "Form3"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Informações - Jogo do Galo"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).EndInit()

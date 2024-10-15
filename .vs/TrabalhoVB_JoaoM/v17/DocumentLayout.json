@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2655A4C-EAFA-406B-9D81-D04549ED11F8}|TrabalhoVB_JoaoM\\TrabalhoVB_JoaoM.vbproj|C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\trabalhovb_joaom\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2655A4C-EAFA-406B-9D81-D04549ED11F8}|TrabalhoVB_JoaoM\\TrabalhoVB_JoaoM.vbproj|solutionrelative:trabalhovb_joaom\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2655A4C-EAFA-406B-9D81-D04549ED11F8}|TrabalhoVB_JoaoM\\TrabalhoVB_JoaoM.vbproj|C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\trabalhovb_joaom\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2655A4C-EAFA-406B-9D81-D04549ED11F8}|TrabalhoVB_JoaoM\\TrabalhoVB_JoaoM.vbproj|solutionrelative:trabalhovb_joaom\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2655A4C-EAFA-406B-9D81-D04549ED11F8}|TrabalhoVB_JoaoM\\TrabalhoVB_JoaoM.vbproj|C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\trabalhovb_joaom\\module2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D2655A4C-EAFA-406B-9D81-D04549ED11F8}|TrabalhoVB_JoaoM\\TrabalhoVB_JoaoM.vbproj|solutionrelative:trabalhovb_joaom\\module2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2655A4C-EAFA-406B-9D81-D04549ED11F8}|TrabalhoVB_JoaoM\\TrabalhoVB_JoaoM.vbproj|c:\\users\\jo6o\\desktop\\jogo_do_galo_vb_2022-23\\trabalhovb_joaom\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D2655A4C-EAFA-406B-9D81-D04549ED11F8}|TrabalhoVB_JoaoM\\TrabalhoVB_JoaoM.vbproj|solutionrelative:trabalhovb_joaom\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2655A4C-EAFA-406B-9D81-D04549ED11F8}|TrabalhoVB_JoaoM\\TrabalhoVB_JoaoM.vbproj|C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\trabalhovb_joaom\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D2655A4C-EAFA-406B-9D81-D04549ED11F8}|TrabalhoVB_JoaoM\\TrabalhoVB_JoaoM.vbproj|solutionrelative:trabalhovb_joaom\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2655A4C-EAFA-406B-9D81-D04549ED11F8}|TrabalhoVB_JoaoM\\TrabalhoVB_JoaoM.vbproj|c:\\users\\jo6o\\desktop\\jogo_do_galo_vb_2022-23\\trabalhovb_joaom\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D2655A4C-EAFA-406B-9D81-D04549ED11F8}|TrabalhoVB_JoaoM\\TrabalhoVB_JoaoM.vbproj|solutionrelative:trabalhovb_joaom\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2655A4C-EAFA-406B-9D81-D04549ED11F8}|TrabalhoVB_JoaoM\\TrabalhoVB_JoaoM.vbproj|C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\trabalhovb_joaom\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D2655A4C-EAFA-406B-9D81-D04549ED11F8}|TrabalhoVB_JoaoM\\TrabalhoVB_JoaoM.vbproj|solutionrelative:trabalhovb_joaom\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 338,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\TrabalhoVB_JoaoM\\Form3.vb",
+              "RelativeDocumentMoniker": "TrabalhoVB_JoaoM\\Form3.vb",
+              "ToolTip": "C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\TrabalhoVB_JoaoM\\Form3.vb",
+              "RelativeToolTip": "TrabalhoVB_JoaoM\\Form3.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-15T14:57:58.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\TrabalhoVB_JoaoM\\Module1.vb",
+              "RelativeDocumentMoniker": "TrabalhoVB_JoaoM\\Module1.vb",
+              "ToolTip": "C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\TrabalhoVB_JoaoM\\Module1.vb",
+              "RelativeToolTip": "TrabalhoVB_JoaoM\\Module1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-15T14:53:39.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Module2.vb",
+              "DocumentMoniker": "C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\TrabalhoVB_JoaoM\\Module2.vb",
+              "RelativeDocumentMoniker": "TrabalhoVB_JoaoM\\Module2.vb",
+              "ToolTip": "C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\TrabalhoVB_JoaoM\\Module2.vb",
+              "RelativeToolTip": "TrabalhoVB_JoaoM\\Module2.vb",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-15T14:53:39.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\TrabalhoVB_JoaoM\\Form1.vb",
+              "RelativeDocumentMoniker": "TrabalhoVB_JoaoM\\Form1.vb",
+              "ToolTip": "C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\TrabalhoVB_JoaoM\\Form1.vb",
+              "RelativeToolTip": "TrabalhoVB_JoaoM\\Form1.vb",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-15T14:53:39.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\TrabalhoVB_JoaoM\\Form1.vb",
+              "RelativeDocumentMoniker": "TrabalhoVB_JoaoM\\Form1.vb",
+              "ToolTip": "C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\TrabalhoVB_JoaoM\\Form1.vb [Design]",
+              "RelativeToolTip": "TrabalhoVB_JoaoM\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-15T14:53:41.567Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\TrabalhoVB_JoaoM\\Form2.vb",
+              "RelativeDocumentMoniker": "TrabalhoVB_JoaoM\\Form2.vb",
+              "ToolTip": "C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\TrabalhoVB_JoaoM\\Form2.vb [Design]",
+              "RelativeToolTip": "TrabalhoVB_JoaoM\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-15T14:53:41.603Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\TrabalhoVB_JoaoM\\Form3.vb",
+              "RelativeDocumentMoniker": "TrabalhoVB_JoaoM\\Form3.vb",
+              "ToolTip": "C:\\Users\\Jo6o\\Desktop\\Jogo_do_Galo_VB_2022-23\\TrabalhoVB_JoaoM\\Form3.vb [Design]",
+              "RelativeToolTip": "TrabalhoVB_JoaoM\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-15T14:53:41.604Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
